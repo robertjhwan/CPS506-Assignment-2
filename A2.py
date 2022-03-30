@@ -1,2 +1,2 @@
 printf("hello")
-prinft("this is robs world")
+prinft("this is robs world lmao")
