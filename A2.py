@@ -1,2 +1,2 @@
 printf("hello")
-prinft("world")
+prinft("this is world")
